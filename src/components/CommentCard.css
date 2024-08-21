@@ -1,0 +1,56 @@
+
+
+.container{
+    background-color:yellow;
+    margin: 20px;
+    display: flex;
+    align-items: stretch;
+
+}
+
+
+.card{
+    background-color:white;
+    color: #acafb4;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    margin: 20px ;
+    width: 250px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    margin: 0;
+
+ }
+
+p {
+    
+    line-height: 2; /* Adjust line height for spacing between lines */
+}
+
+.image{
+    display: flex;
+    align-self: self-end;
+    padding-top: 50px;
+}    
+ 
+    
+
+.img{
+    display: flex;
+    border-radius: 300px;
+    width: 120px;
+    padding: 5px;
+    margin-right: 100px;
+
+    
+}
+
+
+.position .name{
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
